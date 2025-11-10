@@ -1,4 +1,5 @@
 "# Dynamic-Escape" 
+DynEscape dataset: toxicity detection
 The paper has been published. Please cite the following paper if you would like to use this dataset.
 ```
 @article{kang2026developing,
